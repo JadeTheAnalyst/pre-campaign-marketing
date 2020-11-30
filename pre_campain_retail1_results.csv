@@ -1,0 +1,17 @@
+customer_city,category_name,total_sales_amount,rank_num
+Bronx,Electronics,127.96,1
+Bronx,"Women's Apparel",100,2
+Brooklyn,Cleats,1559.74,1
+Brooklyn,"Cardio Equipment",699.93,2
+Caguas,Fishing,13599.31999999999,1
+Caguas,Cleats,11578.06999999999,2
+Chicago,"Camping & Hiking",1199.92,1
+Chicago,"Men's Footwear",649.95,2
+"Los Angeles",Fishing,1999.9,1
+"Los Angeles","Camping & Hiking",1199.92,2
+"New York","Camping & Hiking",299.98,1
+"New York","Cardio Equipment",299.97,2
+Philadelphia,"Water Sports",199.99,1
+Philadelphia,"Shop By Sport",119.97,2
+"San Diego","Indoor/Outdoor Games",249.9,1
+"San Diego","Women's Apparel",150,2
